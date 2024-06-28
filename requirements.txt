@@ -1,0 +1,18 @@
+requests
+pandas
+flask
+ocrmypdf
+pdfplumber
+numpy==1.25.2
+pip install spacy
+spacy_cld
+sudachipy sudachidict_core
+spacy[ja]
+nltk
+paddlepaddle-gpu
+paddleocr
+gevent
+pyuwsgi
+spacy --upgrade
+flask-cors
+

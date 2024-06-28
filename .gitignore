@@ -21,7 +21,6 @@ lib64/
 parts/
 sdist/
 var/
-invoices/
 *.egg-info/
 .installed.cfg
 *.egg
